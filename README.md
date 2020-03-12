@@ -18,9 +18,9 @@ Based on [CSV-Parser](https://github.com/yutokun/CSV-Parser).
 ```cs
 using System.IO;
 
-IEnumerable<IEnumerable<string>> ParseFromFile(string filePath, Delimiter delimiter = Delimiter.Comma, Encoding encoding = null)
-IEnumerable<IEnumerable<string>> ParseFromText(string text, Delimiter delimiter = Delimiter.Comma)
-IEnumerable<string> ParseFieldsFromText(string text, Delimiter delimiter = Delimiter.Comma)
+IEnumerable<IEnumerable<string>> ParseFromFile(string filePath, Delimiter delimiter = Delimiter.Comma, Encoding encoding = null);
+IEnumerable<IEnumerable<string>> ParseFromText(string text, Delimiter delimiter = Delimiter.Comma);
+IEnumerable<string> ParseFieldsFromText(string text, Delimiter delimiter = Delimiter.Comma);
 ```
 
 
@@ -39,7 +39,7 @@ foreach (var field in fields)
 
 data
 
-```cs
+```txt
 aaa
 bbb
 ccc
@@ -65,7 +65,7 @@ foreach (var record in records)
 
 data
 
-```cs
+```txt
 aaa
 bbb
 ccc
@@ -96,7 +96,7 @@ foreach (var record in records)
 
 data
 
-```cs
+```txt
 record has 3 fields.
 aaa
  bbb
@@ -133,7 +133,7 @@ foreach (var record in records)
 
 data
 
-```cs
+```txt
 record has 3 fields.
 aaa
 bbb
