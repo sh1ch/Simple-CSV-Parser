@@ -4,12 +4,14 @@ Simple CSV Parser for C#, Suitable for Unity.
 
 Based on [CSV-Parser](https://github.com/yutokun/CSV-Parser).
 
+
 # Table of Contents
 
 * [Methods](#Methods)
 * [Usage](#Usage)
 * [Compliant](#Compliant)
 * [License](#License)
+
 
 ## Methods
 
@@ -20,6 +22,7 @@ IEnumerable<IEnumerable<string>> ParseFromFile(string filePath, Delimiter delimi
 IEnumerable<IEnumerable<string>> ParseFromText(string text, Delimiter delimiter = Delimiter.Comma)
 IEnumerable<string> ParseFieldsFromText(string text, Delimiter delimiter = Delimiter.Comma)
 ```
+
 
 ## Usage
 
@@ -111,7 +114,7 @@ BBB
 
 ***
 
-sample4
+sample4 code
 
 ```cs
 var records = CsvParser.ParseFromText("aaa,bbb,ccc\r\n111,222,\r\n,\"\"\"bbb\",");
@@ -149,6 +152,8 @@ If double-quotes are used to enclose fields, then a double-quote appearing insid
 
 ***
 
+sample5 code
+
 ```cs
 var path = "..."; // System.AppDomain.CurrentDomain.BaseDirectory;
 var data = CsvParser.ParseFromFile(System.IO.Path.Combine(path, "sample.csv"));
@@ -165,6 +170,9 @@ foreach (var record in records)
 
 <img src="https://github.com/sh1ch/Simple-CSV-Parser/blob/images/txt-sample.png">
 <img src="https://github.com/sh1ch/Simple-CSV-Parser/blob/images/txt-result.png">
+
+This is an example of directly reading CSV file. After reading, operate in the same way as `ParseFromText`.
+
 
 ## Compliant
 
