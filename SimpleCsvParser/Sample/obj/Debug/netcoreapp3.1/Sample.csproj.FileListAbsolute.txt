@@ -1,0 +1,14 @@
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\Sample.exe
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\Sample.deps.json
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.json
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.dev.json
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\Sample.dll
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\SimpleCsvParser.dll
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\bin\Debug\netcoreapp3.1\SimpleCsvParser.pdb
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\obj\Debug\netcoreapp3.1\Sample.csprojAssemblyReference.cache
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfoInputs.cache
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfo.cs
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.CopyComplete
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\obj\Debug\netcoreapp3.1\Sample.dll
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\Sample\obj\Debug\netcoreapp3.1\Sample.pdb

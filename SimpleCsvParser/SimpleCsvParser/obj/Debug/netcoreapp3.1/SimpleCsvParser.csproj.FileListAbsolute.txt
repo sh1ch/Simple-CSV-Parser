@@ -1,0 +1,8 @@
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\bin\Debug\netcoreapp3.1\SimpleCsvParser.deps.json
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\bin\Debug\netcoreapp3.1\SimpleCsvParser.dll
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\bin\Debug\netcoreapp3.1\SimpleCsvParser.pdb
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\obj\Debug\netcoreapp3.1\SimpleCsvParser.csprojAssemblyReference.cache
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\obj\Debug\netcoreapp3.1\SimpleCsvParser.AssemblyInfoInputs.cache
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\obj\Debug\netcoreapp3.1\SimpleCsvParser.AssemblyInfo.cs
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\obj\Debug\netcoreapp3.1\SimpleCsvParser.dll
+C:\Users\isoguchi.JSL\Source\Github\SimpleCsvParser\SimpleCsvParser\SimpleCsvParser\obj\Debug\netcoreapp3.1\SimpleCsvParser.pdb
