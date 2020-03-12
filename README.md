@@ -147,6 +147,25 @@ record has 3 fields.
 
 If double-quotes are used to enclose fields, then a double-quote appearing inside a field must be escaped by preceding it with another double quote.
 
+***
+
+```cs
+var path = "..."; // System.AppDomain.CurrentDomain.BaseDirectory;
+var data = CsvParser.ParseFromFile(System.IO.Path.Combine(path, "sample.csv"));
+
+foreach (var record in records)
+{
+    foreach (var field in record)
+    {
+        Console.WriteLine("do something...");
+    }
+}
+
+```
+
+<img src="https://github.com/sh1ch/Simple-CSV-Parser/blob/images/txt-sample.png">
+<img src="https://github.com/sh1ch/Simple-CSV-Parser/blob/images/txt-result.png">
+
 ## Compliant
 
 - [RFC 4180](http://www.ietf.org/rfc/rfc4180.txt).
