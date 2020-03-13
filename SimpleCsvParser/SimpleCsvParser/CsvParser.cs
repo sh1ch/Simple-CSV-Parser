@@ -260,7 +260,7 @@ namespace System.IO
                         
                         var newField = fieldText.ToString();
 
-                        if (hasQuote && newField.Count(c => c == DoubleQuote) >= 2)
+                        if (hasQuote && newField.Count(co => co == DoubleQuote) >= 2)
                         {
                             // ダブルクォートで区切られるときは、前後の空白文字は削除する
                             newField = newField.Trim(' ');
